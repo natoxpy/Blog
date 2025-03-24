@@ -1,5 +1,7 @@
 ---
 title: "BLDC driver rant - DRV10983"
+date: 2025-03-23
+category: just-talking
 ---
 
 A bit ago I found the DRV10983, it seemed great, it had everything integrated and was sensorless, so when I finally printed the papers and started looking into how to actually use the thing, I realized the max continuous amperage it supports would be around 2A or 3A at most.
